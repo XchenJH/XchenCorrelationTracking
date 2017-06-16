@@ -1,0 +1,16 @@
+bicycle
+bolt
+car
+cup
+david
+diving
+face
+gymnastics
+hand
+iceskater
+juice
+jump
+singer
+sunshade
+torus
+woman
